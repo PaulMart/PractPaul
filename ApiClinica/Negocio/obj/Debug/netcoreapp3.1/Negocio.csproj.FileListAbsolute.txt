@@ -1,0 +1,17 @@
+C:\PROYECTOS-NET\Clinica\ApiClinica\Negocio\bin\Debug\netcoreapp3.1\Negocio.deps.json
+C:\PROYECTOS-NET\Clinica\ApiClinica\Negocio\bin\Debug\netcoreapp3.1\Negocio.dll
+C:\PROYECTOS-NET\Clinica\ApiClinica\Negocio\bin\Debug\netcoreapp3.1\Negocio.pdb
+C:\PROYECTOS-NET\Clinica\ApiClinica\Negocio\bin\Debug\netcoreapp3.1\Datos.dll
+C:\PROYECTOS-NET\Clinica\ApiClinica\Negocio\bin\Debug\netcoreapp3.1\Interfaces.dll
+C:\PROYECTOS-NET\Clinica\ApiClinica\Negocio\bin\Debug\netcoreapp3.1\Modelo.dll
+C:\PROYECTOS-NET\Clinica\ApiClinica\Negocio\bin\Debug\netcoreapp3.1\Datos.pdb
+C:\PROYECTOS-NET\Clinica\ApiClinica\Negocio\bin\Debug\netcoreapp3.1\Interfaces.pdb
+C:\PROYECTOS-NET\Clinica\ApiClinica\Negocio\bin\Debug\netcoreapp3.1\Modelo.pdb
+C:\PROYECTOS-NET\Clinica\ApiClinica\Negocio\obj\Debug\netcoreapp3.1\Negocio.csproj.AssemblyReference.cache
+C:\PROYECTOS-NET\Clinica\ApiClinica\Negocio\obj\Debug\netcoreapp3.1\Negocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\PROYECTOS-NET\Clinica\ApiClinica\Negocio\obj\Debug\netcoreapp3.1\Negocio.AssemblyInfoInputs.cache
+C:\PROYECTOS-NET\Clinica\ApiClinica\Negocio\obj\Debug\netcoreapp3.1\Negocio.AssemblyInfo.cs
+C:\PROYECTOS-NET\Clinica\ApiClinica\Negocio\obj\Debug\netcoreapp3.1\Negocio.csproj.CoreCompileInputs.cache
+C:\PROYECTOS-NET\Clinica\ApiClinica\Negocio\obj\Debug\netcoreapp3.1\Negocio.csproj.CopyComplete
+C:\PROYECTOS-NET\Clinica\ApiClinica\Negocio\obj\Debug\netcoreapp3.1\Negocio.dll
+C:\PROYECTOS-NET\Clinica\ApiClinica\Negocio\obj\Debug\netcoreapp3.1\Negocio.pdb

@@ -1,0 +1,15 @@
+C:\PROYECTOS-NET\Clinica\ApiClinica\Datos\bin\Debug\netcoreapp3.1\Datos.deps.json
+C:\PROYECTOS-NET\Clinica\ApiClinica\Datos\bin\Debug\netcoreapp3.1\Datos.dll
+C:\PROYECTOS-NET\Clinica\ApiClinica\Datos\bin\Debug\netcoreapp3.1\Datos.pdb
+C:\PROYECTOS-NET\Clinica\ApiClinica\Datos\bin\Debug\netcoreapp3.1\Interfaces.dll
+C:\PROYECTOS-NET\Clinica\ApiClinica\Datos\bin\Debug\netcoreapp3.1\Modelo.dll
+C:\PROYECTOS-NET\Clinica\ApiClinica\Datos\bin\Debug\netcoreapp3.1\Interfaces.pdb
+C:\PROYECTOS-NET\Clinica\ApiClinica\Datos\bin\Debug\netcoreapp3.1\Modelo.pdb
+C:\PROYECTOS-NET\Clinica\ApiClinica\Datos\obj\Debug\netcoreapp3.1\Datos.csproj.AssemblyReference.cache
+C:\PROYECTOS-NET\Clinica\ApiClinica\Datos\obj\Debug\netcoreapp3.1\Datos.GeneratedMSBuildEditorConfig.editorconfig
+C:\PROYECTOS-NET\Clinica\ApiClinica\Datos\obj\Debug\netcoreapp3.1\Datos.AssemblyInfoInputs.cache
+C:\PROYECTOS-NET\Clinica\ApiClinica\Datos\obj\Debug\netcoreapp3.1\Datos.AssemblyInfo.cs
+C:\PROYECTOS-NET\Clinica\ApiClinica\Datos\obj\Debug\netcoreapp3.1\Datos.csproj.CoreCompileInputs.cache
+C:\PROYECTOS-NET\Clinica\ApiClinica\Datos\obj\Debug\netcoreapp3.1\Datos.csproj.CopyComplete
+C:\PROYECTOS-NET\Clinica\ApiClinica\Datos\obj\Debug\netcoreapp3.1\Datos.dll
+C:\PROYECTOS-NET\Clinica\ApiClinica\Datos\obj\Debug\netcoreapp3.1\Datos.pdb

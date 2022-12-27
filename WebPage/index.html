@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Listado de Personas</title>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" type="text/css" href="paquetes/node_modules/bootstrap/dist/css/bootstrap.min.css">
+        <link rel="stylesheet" type="text/css" href="paquetes/node_modules/tether/dist/css/tether.min.css">
+        <link rel="stylesheet" type="text/css" href="paquetes/node_modules/datatable4/css/dataTables.bootstrap4.min.css">
+        <link rel="stylesheet" type="text/css" href="paquetes/node_modules/font-awesome/css/font-awesome.min.css">
+        <link rel="stylesheet" type="text/css" href="paquetes/sweet_alert/sweetalert.css">
+        <link rel="stylesheet" type="text/css" href="paquetes/node_modules/jquery-iu/css/jquery-ui.css">
+
+        <script src="paquetes/node_modules/jquery/dist/jquery.min.js" type="text/javascript"></script>
+        <script src="paquetes/node_modules/tether/dist/js/tether.min.js" type="text/javascript"></script>
+        <script src="paquetes/node_modules/bootstrap/dist/js/bootstrap.min.js" type="text/javascript"></script>
+        <script src="paquetes/jquery/jquery.numeric.min.js"></script>
+        <script src="paquetes/node_modules/jquery-iu/js/jquery-ui.js" type="text/javascript"></script>
+        <script src="paquetes/node_modules/datatable4/js/jquery.dataTables.min.js" type="text/javascript"></script>
+        <script src="paquetes/node_modules/datatable4/js/dataTables.bootstrap4.min.js" type="text/javascript"></script>
+        <script src="paquetes/sweet_alert/sweetalert.min.js" type="text/javascript"></script>        
+        <script src="js/funciones.js" type="text/javascript"></script>
+    </head>
+    <body>
+        <nav class="navbar navbar-toggleable-md navbar-light bg-faded g-mrg-bt">
+            <a class="navbar-brand" href="#">               
+            </a>
+            <div class="g-navbar-center">
+                <div class="title">Listado de Personas</div>
+            </div>
+        </nav>
+        <div class="container-fluid">
+            <div class="row">
+                <div class="col-sm-12 col-md-12 col-xl-12">
+                    <div class="form-group row">
+                        <div class="col-2">   
+                            <button class="btn btn-success" type="button" data-toggle="modal" data-target="#modalregempre" id="btn_nuevo"><i class="fa fa-plus"></i> Nueva Persona</button> </div>
+                        <div class="col-10 text-center">
+                        </div>
+                    </div>
+                    <hr>
+                    <table class="table table-bordered" id="myTable" style="width: 100%;">
+                        <thead>
+                            <tr>
+                                <th class="text-center">Id</th>
+                                <th class="text-center">Nombre</th>
+                                <th class="text-center">Apellido</th>
+                                <th class="text-center">Dni</th>
+                                <th class="text-center">Fecha Nacimiento</th>
+                                <th class="text-center">Fecha Registro</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+
+        <!--modal Registrar-->
+        <div class="modal fade" id="modalregempre" tabindex="-1" role="dialog">
+            <div class="modal-dialog  modal-lg" role="document">
+                <div class="modal-content">
+                    <div class="modal-header card-primary text-white">
+                        <h4 class="modal-title text-center" id="myModalLabel">Registrar Persona</h4>
+                    </div>
+                    <div class="modal-body">
+                         <form class="form-horizontal" role="form" id="DatosPersonaReg">
+                        <!--<form>-->
+                        <div class="tab-content" style="overflow-y: scroll; height: 400px;">
+                                <div class="form-group row">
+                                    <div class="col-6">
+                                        <label class="col-form-label">
+                                            Nombre :
+                                        </label>
+                                        <input type="text" id="i_nombre" class="form-control registro" placeholder=" Ingrese nombre">
+                                    </div>
+                                    <div class="col-6">
+                                        <label class="col-form-label">
+                                            Apellido :
+                                        </label>
+                                        <input type="text" id="i_apellido" class="form-control registro" placeholder=" Ingrese apellido">
+                                    </div>                                                                  
+                                </div>
+
+                                <div class="form-group row">
+                                    <div class="col-4">
+                                        <label class="col-form-label">
+                                            DNI :
+                                        </label>
+                                        <input type="text" id="i_dni" class="form-control registro" placeholder=" Ingrese DNI" maxlength="8">
+                                    </div>    
+                                   <div class="col-4">
+                                        <label class="col-form-label">
+                                            Fecha Nacimiento :
+                                        </label>
+                                       <input type="date" id="i_fnacimiento" class="form-control registro fecha">
+                                    </div>                                   
+                                </div>                        
+                        </div>
+                         </form>
+                    </div>
+                    <div class="modal-footer">
+                        <button type="button" class="btn btn-secondary" id="cancelar" data-dismiss="modal"><span class="glyphicon glyphicon-remove-sign"></span> Cancelar</button>
+                        <button type="button" class="btn btn-primary" id="btn_registrar"><span class="glyphicon glyphicon-floppy-saved"></span> Guardar</button>
+                    </div>
+                </div>
+            </div>
+        </div>        
+    </body>
+</html>

@@ -1,0 +1,13 @@
+C:\PROYECTOS-NET\Clinica\ApiClinica\Interfaces\bin\Debug\netcoreapp3.1\Interfaces.deps.json
+C:\PROYECTOS-NET\Clinica\ApiClinica\Interfaces\bin\Debug\netcoreapp3.1\Interfaces.dll
+C:\PROYECTOS-NET\Clinica\ApiClinica\Interfaces\bin\Debug\netcoreapp3.1\Interfaces.pdb
+C:\PROYECTOS-NET\Clinica\ApiClinica\Interfaces\bin\Debug\netcoreapp3.1\Modelo.dll
+C:\PROYECTOS-NET\Clinica\ApiClinica\Interfaces\bin\Debug\netcoreapp3.1\Modelo.pdb
+C:\PROYECTOS-NET\Clinica\ApiClinica\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.csproj.AssemblyReference.cache
+C:\PROYECTOS-NET\Clinica\ApiClinica\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\PROYECTOS-NET\Clinica\ApiClinica\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.AssemblyInfoInputs.cache
+C:\PROYECTOS-NET\Clinica\ApiClinica\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.AssemblyInfo.cs
+C:\PROYECTOS-NET\Clinica\ApiClinica\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.csproj.CoreCompileInputs.cache
+C:\PROYECTOS-NET\Clinica\ApiClinica\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.csproj.CopyComplete
+C:\PROYECTOS-NET\Clinica\ApiClinica\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.dll
+C:\PROYECTOS-NET\Clinica\ApiClinica\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.pdb

@@ -1,0 +1,17 @@
+C:\PROYECTOS-NET\Clinica\AplicativoVisualBasic\AplicativoVisualBasic\bin\Debug\AplicativoVisualBasic.exe.config
+C:\PROYECTOS-NET\Clinica\AplicativoVisualBasic\AplicativoVisualBasic\bin\Debug\AplicativoVisualBasic.exe
+C:\PROYECTOS-NET\Clinica\AplicativoVisualBasic\AplicativoVisualBasic\bin\Debug\AplicativoVisualBasic.pdb
+C:\PROYECTOS-NET\Clinica\AplicativoVisualBasic\AplicativoVisualBasic\bin\Debug\AplicativoVisualBasic.xml
+C:\PROYECTOS-NET\Clinica\AplicativoVisualBasic\AplicativoVisualBasic\bin\Debug\ClassLibrary1.dll
+C:\PROYECTOS-NET\Clinica\AplicativoVisualBasic\AplicativoVisualBasic\bin\Debug\ClassLibrary1.pdb
+C:\PROYECTOS-NET\Clinica\AplicativoVisualBasic\AplicativoVisualBasic\bin\Debug\ClassLibrary1.xml
+C:\PROYECTOS-NET\Clinica\AplicativoVisualBasic\AplicativoVisualBasic\obj\Debug\AplicativoVisualBasic.vbproj.AssemblyReference.cache
+C:\PROYECTOS-NET\Clinica\AplicativoVisualBasic\AplicativoVisualBasic\obj\Debug\AplicativoVisualBasic.vbproj.SuggestedBindingRedirects.cache
+C:\PROYECTOS-NET\Clinica\AplicativoVisualBasic\AplicativoVisualBasic\obj\Debug\AplicativoVisualBasic.Form1.resources
+C:\PROYECTOS-NET\Clinica\AplicativoVisualBasic\AplicativoVisualBasic\obj\Debug\AplicativoVisualBasic.Resources.resources
+C:\PROYECTOS-NET\Clinica\AplicativoVisualBasic\AplicativoVisualBasic\obj\Debug\AplicativoVisualBasic.vbproj.GenerateResource.cache
+C:\PROYECTOS-NET\Clinica\AplicativoVisualBasic\AplicativoVisualBasic\obj\Debug\AplicativoVisualBasic.vbproj.CoreCompileInputs.cache
+C:\PROYECTOS-NET\Clinica\AplicativoVisualBasic\AplicativoVisualBasic\obj\Debug\AplicativoVisualBasic.vbproj.CopyComplete
+C:\PROYECTOS-NET\Clinica\AplicativoVisualBasic\AplicativoVisualBasic\obj\Debug\AplicativoVisualBasic.exe
+C:\PROYECTOS-NET\Clinica\AplicativoVisualBasic\AplicativoVisualBasic\obj\Debug\AplicativoVisualBasic.xml
+C:\PROYECTOS-NET\Clinica\AplicativoVisualBasic\AplicativoVisualBasic\obj\Debug\AplicativoVisualBasic.pdb
